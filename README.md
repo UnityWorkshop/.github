@@ -1,7 +1,7 @@
-## [Overview](https://themassiveone.notion.site/Game-Development-Workshop-ef9708e5e4d94c57b17b4979299f4535?pvs=4)
-![image](https://github.com/UnityWorkshop/.github/assets/98899239/724dac60-9a44-4129-b935-7cae56d7d832)
+![image](https://github.com/UnityWorkshop/.github/assets/98899239/8569b067-8ea3-4721-87cf-f60da4c4f82b)
+# [🧊 Game Development Workshop by Daniel Maß](https://themassiveone.notion.site/Game-Development-Workshop-ef9708e5e4d94c57b17b4979299f4535?pvs=4)
 
-## Applications:
+## Contact:
 [workshop.daniel.mass@gmail.com](mailto:workshop.daniel.mass@gmail.com)
 
 ## Shortcuts:
