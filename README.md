@@ -5,6 +5,4 @@
 [workshop.daniel.mass@gmail.com](mailto:workshop.daniel.mass@gmail.com)
 
 ## Shortcuts:
-- [Visual Design Track Overview](https://themassiveone.notion.site/Visual-Design-Track-Overview-a4857d1e0c9140f0bff58a702da314e1?pvs=4)
-- [Unity Development Track Overview](https://themassiveone.notion.site/Unity-Development-Track-Overview-f8093cf44a8a470995e560546829b928?pvs=4)
 - [Github Organization](https://github.com/UnityWorkshop)
