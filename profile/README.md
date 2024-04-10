@@ -1,7 +1,7 @@
 # 🧊 Game Development Workshop by Daniel Maß
 
 ## Projects
-- 2DPuzzle: [eswinswag](eswinswag/README.md)
+- 2DPuzzle: [eswinswag](../eswinswag/README.md)
 
 
 ## Contact:
