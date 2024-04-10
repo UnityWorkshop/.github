@@ -19,5 +19,8 @@
 <p align="center">
   <a href="https://github.com/UnityWorkshop/">
     Workshop
+  </a> |
+  <a href="https://workshop.massivecreationlab.com/eswinswag/privacy-policy">
+    Privacy Policy
   </a>
 </p>
