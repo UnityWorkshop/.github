@@ -1,11 +1,12 @@
-# 🧊 Game Development Workshop by Daniel Maß
+# 🧊 Game Development Workshop
 
 ## Projects
 - 2DPuzzle: [eswinswag](../eswinswag/README.md)
 
 
-## Contact:
-[workshop.daniel.mass@gmail.com](mailto:workshop.daniel.mass@gmail.com)
-
 ## Shortcuts:
 - [Github Organization](https://github.com/UnityWorkshop)
+
+
+## Contact:
+[workshop.daniel.mass@gmail.com](mailto:workshop.daniel.mass@gmail.com)
